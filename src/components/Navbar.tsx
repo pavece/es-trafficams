@@ -1,6 +1,11 @@
 import { useTranslation } from "react-i18next";
+import { useEffect } from "react";
 const Navbar = () => {
   const [t, i18n] = useTranslation("global");
+
+  useEffect(() => {
+    localStorage.setItem("lang", i18n.language);
+  }, [i18n.language]);
 
   const changeLang = (lang: string) => {
     i18n.changeLanguage(lang);

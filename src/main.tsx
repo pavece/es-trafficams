@@ -25,7 +25,7 @@ const router = createBrowserRouter([
 ]);
 
 i18next.init({
-  lng: "es",
+  lng: localStorage.getItem("lang") || navigator.language.split("-")[0],
   resources: {
     en: {
       global: enGlobal,
