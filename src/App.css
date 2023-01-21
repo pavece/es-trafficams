@@ -1,8 +1,8 @@
 .view-mode-controls-container {
   position: absolute;
-  bottom: 20px;
-  left: 20px;
-  z-index: 400;
+  bottom: 25px;
+  left: 30px;
+  z-index: 999;
 }
 
 .view-mode-controls-button {
@@ -30,7 +30,7 @@
 
 .leaflet-popup-content-wrapper,
 .leaflet-popup-tip {
-  background-color: rgba(0, 0, 0, 0.658) !important;
+  background-color: rgba(48, 48, 48, 0.658) !important;
   backdrop-filter: blur(30px);
 }
 
@@ -56,4 +56,75 @@
 
   text-transform: uppercase;
   font-size: 0.9rem;
+}
+
+/* Modal */
+
+.modal-p-container {
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  z-index: 9999;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backdrop-filter: blur(5px);
+}
+.modal-container {
+  padding: 30px;
+  border-radius: 10px;
+  background-color: rgba(48, 48, 48, 0.658);
+  backdrop-filter: blur(30px);
+}
+.modal-image {
+  max-width: 80vw;
+  max-height: 65vh;
+  border-radius: 8px;
+}
+.camera-data-info {
+  color: #ffff;
+  list-style: none;
+}
+
+.camera-data-container {
+  padding: 10px 0;
+  display: grid;
+  grid-template-columns: 1fr 0.5fr;
+}
+.camera-data-buttons-container {
+  display: flex;
+  align-items: end;
+  justify-content: right;
+}
+
+.camera-detail-modal-close-btn {
+  padding: 5px 15px;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+  .view-mode-controls-container {
+    bottom: 60px;
+    left: 5px;
+  }
+  .modal-container {
+    padding: 20px 15px;
+  }
+
+  .modal-image {
+    max-width: 100%;
+    max-height: 65vh;
+  }
+
+  .camera-data-container {
+    padding: 5px 0;
+
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 0.5fr;
+  }
 }
