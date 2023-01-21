@@ -1,15 +1,13 @@
-import "./App.css";
+import "../App.css";
 import { useState, useEffect } from "react";
-import MapComponent from "./components/MapComponent";
-import CameraDetailModal from "./components/CameraDetailModal";
-import { useModalStore } from "./hooks/useModalStore";
-import Navbar from "./components/Navbar";
+import MapComponent from "../components/MapComponent";
+import CameraDetailModal from "../components/CameraDetailModal";
+import { useModalStore } from "../hooks/useModalStore";
+import Navbar from "../components/Navbar";
 
-
-function App() {
+function Index() {
   const [cameras, setCameras] = useState([]);
   const { open } = useModalStore();
-
 
   useEffect(() => {
     fetch("./cameras.json")
@@ -28,4 +26,4 @@ function App() {
   );
 }
 
-export default App;
+export default Index;
