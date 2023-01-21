@@ -1,3 +1,36 @@
+.nav-container {
+  left: 0;
+  top: 0;
+  position: absolute;
+  z-index: 999999;
+  background-color: rgba(0, 0, 0, 0.658);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: calc(100vw - 60px);
+  padding: 10px 30px;
+  color: #ffff;
+  backdrop-filter: blur(10px);
+}
+.nav-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  font-size: 1rem;
+}
+.lang-selector {
+  border: none;
+  color: #ffff;
+  font-size: 1rem;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.lang-selector:focus {
+  background-color: rgba(0, 0, 0, 0.658);
+  backdrop-filter: blur(10px);
+}
+
 .view-mode-controls-container {
   position: absolute;
   bottom: 25px;

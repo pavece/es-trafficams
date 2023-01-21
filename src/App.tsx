@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import MapComponent from "./components/MapComponent";
 import CameraDetailModal from "./components/CameraDetailModal";
 import { useModalStore } from "./hooks/useModalStore";
+import Navbar from "./components/Navbar";
 
 function App() {
   const [cameras, setCameras] = useState([]);
@@ -18,6 +19,7 @@ function App() {
 
   return (
     <>
+      <Navbar />
       <MapComponent cameras={cameras} />
       {open && <CameraDetailModal />}
     </>
