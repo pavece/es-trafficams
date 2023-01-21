@@ -1,0 +1,15 @@
+{
+  "mapControls": {
+    "satellite-button": "Satellite",
+    "normal-button": "Normal"
+  },
+  "cameraMarkers": {
+    "more-details-btn": "More details"
+  },
+  "cameraDetailsModal": {
+    "city-data": "City",
+    "serial-number-data": "Serial number",
+    "identification": "Identification",
+    "close-btn": "Close"
+  }
+}

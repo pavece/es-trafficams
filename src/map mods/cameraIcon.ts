@@ -7,6 +7,6 @@ export const cameraIcon = new L.Icon({
   iconRetinaUrl: markerIcon,
   iconSize: [50, 50],
   iconAnchor: [16, 32],
-  popupAnchor: [0, -20],
+  popupAnchor: [9, -20],
   shadowSize: [0, 0],
 });

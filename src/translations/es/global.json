@@ -1,0 +1,15 @@
+{
+  "mapControls": {
+    "satellite-button": "Satélite",
+    "normal-button": "Normal"
+  },
+  "cameraMarkers": {
+    "more-details-btn": "Ver mas"
+  },
+  "cameraDetailsModal": {
+    "city-data": "Ciudad",
+    "serial-number-data": "Número de serie",
+    "identification": "Identificación",
+    "close-btn": "Cerrar"
+  }
+}

@@ -12,10 +12,12 @@
     "@changey/react-leaflet-markercluster": "^4.0.0-rc1",
     "@types/leaflet.markercluster": "^1.5.1",
     "@types/react-leaflet": "^2.8.2",
+    "i18next": "^22.4.9",
     "leaflet": "^1.9.3",
     "leaflet.markercluster": "^1.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-i18next": "^12.1.4",
     "react-leaflet": "^4.2.0",
     "zustand": "^4.3.2"
   },

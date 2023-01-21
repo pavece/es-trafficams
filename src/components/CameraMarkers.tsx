@@ -1,14 +1,16 @@
 //@ts-ignore (No declaration file for this module)
 import MarkerClusterGroup from "@changey/react-leaflet-markercluster";
+import { useTranslation } from "react-i18next";
 
 import { ICamera } from "../interfaces/ICamera";
 import { Marker, Popup } from "react-leaflet";
 import { useModalStore } from "../hooks/useModalStore";
 import { useRef } from "react";
-import { cameraIcon } from '../map mods/cameraIcon';
+import { cameraIcon } from "../map mods/cameraIcon";
 
 export const CameraMarkers = ({ cameras }: { cameras: ICamera[] }) => {
   const { openModal } = useModalStore();
+  const [t] = useTranslation("global");
 
   const popupRef = useRef<any>();
 
@@ -36,7 +38,7 @@ export const CameraMarkers = ({ cameras }: { cameras: ICamera[] }) => {
                       openModal(camera);
                       popupRef.current._closeButton.click();
                     }}>
-                    More details
+                    {t("cameraMarkers.more-details-btn")}
                   </button>
                 </div>
               </div>

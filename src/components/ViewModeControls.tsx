@@ -1,7 +1,9 @@
+import { useTranslation } from "react-i18next";
 import { useMapModeStore } from "../hooks/useMapModeStore";
 
 const ViewModeControls = () => {
   const { mode, setMode } = useMapModeStore();
+  const [t, i18n] = useTranslation("global");
 
   return (
     <div className=" view-mode-controls-container">
@@ -13,7 +15,7 @@ const ViewModeControls = () => {
         onClick={() => {
           setMode("normal");
         }}>
-        Normal
+        {t("mapControls.normal-button")}
       </button>
       <button
         className="view-mode-controls-button btn-right "
@@ -23,7 +25,7 @@ const ViewModeControls = () => {
         onClick={() => {
           setMode("satellite");
         }}>
-        Satellite
+        {t("mapControls.satellite-button")}
       </button>
     </div>
   );
