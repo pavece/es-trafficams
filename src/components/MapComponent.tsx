@@ -1,5 +1,5 @@
 import { FC, useRef, useEffect } from "react";
-import { MapContainer, TileLayer } from "react-leaflet";
+import { MapContainer, TileLayer, Popup } from "react-leaflet";
 
 import { useMapModeStore } from "../hooks/useMapModeStore";
 import { CameraMarkers } from "./CameraMarkers";

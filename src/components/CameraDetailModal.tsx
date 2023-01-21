@@ -1,7 +1,10 @@
+import { useState } from "react";
 import { useModalStore } from "../hooks/useModalStore";
+import Skeleton from "./Skeleton";
 
 const CameraDetailModal = () => {
   const { data, closeModal } = useModalStore();
+  const [imageLoaded, setImageLoaded] = useState(false);
 
   return (
     <div
@@ -12,7 +15,17 @@ const CameraDetailModal = () => {
       }}>
       <div className="modal-container">
         <div>
-          <img className="modal-image" src={data.imageUrl} alt="" />
+          {!imageLoaded && <Skeleton />}
+
+          <img
+            className="modal-image"
+            style={{ display: !imageLoaded ? "hidden" : "inherit" }}
+            src={data.imageUrl}
+            alt=""
+            onLoad={() => {
+              setImageLoaded(true);
+            }}
+          />
         </div>
         <div className="camera-data-container">
           <div className="camera-data-info">
@@ -21,7 +34,11 @@ const CameraDetailModal = () => {
             <p>Identification: {data.identification}</p>
           </div>
           <div className="camera-data-buttons-container">
-            <button className="camera-detail-modal-close-btn" onClick={closeModal}>Close</button>
+            <button
+              className="camera-detail-modal-close-btn"
+              onClick={closeModal}>
+              Close
+            </button>
           </div>
         </div>
       </div>

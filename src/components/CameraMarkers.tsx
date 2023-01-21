@@ -1,3 +1,4 @@
+import { useState } from "react";
 //@ts-ignore (No declaration file for this module)
 import MarkerClusterGroup from "@changey/react-leaflet-markercluster";
 
@@ -5,9 +6,11 @@ import { ICamera } from "../interfaces/ICamera";
 import { Marker, Popup } from "react-leaflet";
 import { useModalStore } from "../hooks/useModalStore";
 import { useRef } from "react";
+import Skeleton from "./Skeleton";
 
 export const CameraMarkers = ({ cameras }: { cameras: ICamera[] }) => {
   const { openModal } = useModalStore();
+
   const popupRef = useRef<any>();
 
   return (
