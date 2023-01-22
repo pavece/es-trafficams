@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import { useMapModeStore } from "../hooks/useMapModeStore";
+import { useMapModeStore } from "../../hooks/useMapModeStore";
 
 const ViewModeControls = () => {
   const { mode, setMode } = useMapModeStore();

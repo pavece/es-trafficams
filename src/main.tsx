@@ -11,7 +11,7 @@ import enGlobal from "./translations/en/global.json";
 import Index from "./pages";
 import About from "./pages/About";
 
-import "./index.css";
+import "./styles/index.css";
 
 const router = createBrowserRouter([
   {

@@ -13,9 +13,13 @@ const Navbar = () => {
 
   return (
     <nav className="nav-container">
-      <img src="/logo.svg" style={{ width: "calc(10rem + 3vw)" }} alt="" />
+      <a href="/">
+        <img src="/logo.svg" style={{ width: "calc(10rem + 3vw)" }} alt="" />
+      </a>
       <div className="nav-buttons">
-        <a>About</a>
+        <a href="/about" style={{ color: "#ffff", textDecoration: "none" }}>
+          About
+        </a>
         <select
           name="Lang"
           id=""
@@ -24,8 +28,8 @@ const Navbar = () => {
           onChange={(e) => {
             changeLang(e.target.value);
           }}>
-          <option value="en">English</option>
-          <option value="es">Español</option>
+          <option value="en">🇺🇸 English</option>
+          <option value="es">🇪🇸 Español</option>
         </select>
       </div>
     </nav>

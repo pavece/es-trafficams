@@ -1,11 +1,11 @@
 import { FC, useRef, useEffect } from "react";
 import { MapContainer, TileLayer, Popup } from "react-leaflet";
 
-import { useMapModeStore } from "../hooks/useMapModeStore";
-import { CameraMarkers } from "./CameraMarkers";
-import ViewModeControls from "./ViewModeControls";
+import { useMapModeStore } from "../../hooks/useMapModeStore";
+import { CameraMarkers } from "../map/CameraMarkers";
+import ViewModeControls from "../map/ViewModeControls";
 
-import { ICamera } from "../interfaces/ICamera";
+import { ICamera } from "../../interfaces/ICamera";
 
 type Props = {
   cameras: ICamera[];

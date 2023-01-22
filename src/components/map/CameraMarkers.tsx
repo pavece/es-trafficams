@@ -2,11 +2,11 @@
 import MarkerClusterGroup from "@changey/react-leaflet-markercluster";
 import { useTranslation } from "react-i18next";
 
-import { ICamera } from "../interfaces/ICamera";
+import { ICamera } from "../../interfaces/ICamera";
 import { Marker, Popup } from "react-leaflet";
-import { useModalStore } from "../hooks/useModalStore";
+import { useModalStore } from "../../hooks/useModalStore";
 import { useRef } from "react";
-import { cameraIcon } from "../map mods/cameraIcon";
+import { cameraIcon } from "../../map mods/cameraIcon";
 
 export const CameraMarkers = ({ cameras }: { cameras: ICamera[] }) => {
   const { openModal } = useModalStore();

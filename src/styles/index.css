@@ -1,0 +1,14 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background-color: rgba(0, 0, 0, 0.952);
+  overflow-x: hidden;
+}
+
+a{
+  color: rgba(0, 119, 255, 0.795);
+}
