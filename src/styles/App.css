@@ -190,6 +190,14 @@
 }
 
 @media screen and (max-width: 600px) {
+  .nav-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 1rem;
+  }
+
   .view-mode-controls-container {
     bottom: 60px;
     left: 5px;
