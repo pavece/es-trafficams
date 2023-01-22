@@ -1,9 +1,9 @@
-import "../App.css";
+import "../styles/App.css";
 import { useState, useEffect } from "react";
-import MapComponent from "../components/MapComponent";
-import CameraDetailModal from "../components/CameraDetailModal";
+import MapComponent from "../components/map/MapComponent";
+import CameraDetailModal from "../components/ui/CameraDetailModal";
 import { useModalStore } from "../hooks/useModalStore";
-import Navbar from "../components/Navbar";
+import Navbar from "../components/ui/Navbar";
 
 function Index() {
   const [cameras, setCameras] = useState([]);

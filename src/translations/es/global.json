@@ -11,5 +11,14 @@
     "serial-number-data": "Número de serie",
     "identification": "Identificación",
     "close-btn": "Cerrar"
+  },
+  "aboutPage": {
+    "data-objective-header": "Origen de los datos y objetivo",
+    "data-objective-1p": "Los datos e imágenes que se muestran en esta pagina se pueden encontrar en este apartado de la pagina web de la DGT:",
+    "data-objective-2p": "Las imágenes que se muestran son frames que se actualizan cada 10 minutos. Gracias a estos datos se puede planificar un viaje y ver el estado de la carretera en los puntos por los que se va a pasar. Para prevenir nieve u otras inclemencias.",
+    "data-objective-3p": "El objetivo de esta aplicación es tener una vista general de todas las cámaras a las que se puede acceder como ciudadano para poder planificar viajes con seguridad.",
+    "data-objective-4p": " Es importante destacar que la dgt cuenta con un mapa en el que se muestran cámaras, accidentes e incidencias en general.",
+    "open-source-header": "Código abierto",
+    "open-source-1p": " Este proyecto es de código abierto, puedes encontrar el repositorio aquí:"
   }
 }
