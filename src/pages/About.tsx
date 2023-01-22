@@ -1,11 +1,15 @@
 import Navbar from "../components/ui/Navbar";
 import { useTranslation } from "react-i18next";
+import { Helmet } from "react-helmet";
 
 const About = () => {
   const [t] = useTranslation("global");
 
   return (
     <>
+      <Helmet>
+        <title>Spanish traffic cams - About</title>
+      </Helmet>
       <Navbar />
       <div className="about">
         <div className="about-page-container">
@@ -33,6 +37,10 @@ const About = () => {
               <a href="https://github.com/pavece/es-trafficams">
                 https://github.com/pavece/es-trafficams
               </a>
+              <p>
+                {t("aboutPage.cc")}
+                <a href="https://pavece.com">Pavece</a>
+              </p>
             </div>
           </div>
         </div>

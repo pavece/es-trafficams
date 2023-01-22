@@ -12,13 +12,14 @@
     "identification": "Identification",
     "close-btn": "Close"
   },
-  "aboutPage":{
+  "aboutPage": {
     "data-objective-header": "Data origin and objective",
     "data-objective-1p": "All the data and camera images that are shown on this webpage can be found on the DGT webpage:",
     "data-objective-2p": "The images show frames taken every 10 minutes from traffic cameras all around Spanish roads. You can use these images and data to plan a trip safely. You can check all the cameras in your route to see if the weather is good enough to go or to check if there is snow on the road.",
     "data-objective-3p": "The objective of this application is to get a general view of all the cameras that can be accessed as a citizen in Spain.",
     "data-objective-4p": "Is important to say that the DGT also has a map where they report incidents and also show these cameras. This project is a mere abstraction of another way to represent this data.",
     "open-source-header": "Open source",
-    "open-source-1p": "This is an open source project, you can find the repo here:"
+    "open-source-1p": "This is an open source project, you can find the repo here:",
+    "cc": "Website created by "
   }
 }

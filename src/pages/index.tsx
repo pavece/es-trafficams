@@ -4,6 +4,7 @@ import MapComponent from "../components/map/MapComponent";
 import CameraDetailModal from "../components/ui/CameraDetailModal";
 import { useModalStore } from "../hooks/useModalStore";
 import Navbar from "../components/ui/Navbar";
+import { Helmet } from "react-helmet";
 
 function Index() {
   const [cameras, setCameras] = useState([]);
@@ -19,6 +20,9 @@ function Index() {
 
   return (
     <>
+      <Helmet>
+        <title>Spanish traffic cams - MAP</title>
+      </Helmet>
       <Navbar />
       <MapComponent cameras={cameras} />
       {open && <CameraDetailModal />}
