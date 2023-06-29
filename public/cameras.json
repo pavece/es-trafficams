@@ -73,7 +73,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_15",
-    "location": { "lat": "41.506", "lon": "-4.9853", "city": "VALLADOLID" },
+    "location": { "lat": "41.5059", "lon": "-4.9851", "city": "VALLADOLID" },
     "serialNumber": "15",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/15.jpg"
   },
@@ -145,7 +145,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_27",
-    "location": { "lat": "42.0167", "lon": "-5.6665", "city": "VALLADOLID" },
+    "location": { "lat": "42.0165", "lon": "-5.6664", "city": "VALLADOLID" },
     "serialNumber": "27",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/27.jpg"
   },
@@ -169,7 +169,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_31",
-    "location": { "lat": "42.4445", "lon": "-5.3786", "city": "VALLADOLID" },
+    "location": { "lat": "42.4445", "lon": "-5.3787", "city": "VALLADOLID" },
     "serialNumber": "31",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/31.jpg"
   },
@@ -205,13 +205,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_37",
-    "location": { "lat": "42.0389", "lon": "-6.9615", "city": "VALLADOLID" },
+    "location": { "lat": "42.0389", "lon": "-6.9616", "city": "VALLADOLID" },
     "serialNumber": "37",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/37.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_40",
-    "location": { "lat": "41.3814", "lon": "-3.6448", "city": "VALLADOLID" },
+    "location": { "lat": "41.3812", "lon": "-3.6449", "city": "VALLADOLID" },
     "serialNumber": "40",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/40.jpg"
   },
@@ -223,7 +223,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_42",
-    "location": { "lat": "41.5336", "lon": "-3.716", "city": "VALLADOLID" },
+    "location": { "lat": "41.5334", "lon": "-3.7159", "city": "VALLADOLID" },
     "serialNumber": "42",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/42.jpg"
   },
@@ -235,13 +235,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_44",
-    "location": { "lat": "41.6646", "lon": "-3.7286", "city": "VALLADOLID" },
+    "location": { "lat": "41.6647", "lon": "-3.7286", "city": "VALLADOLID" },
     "serialNumber": "44",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/44.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_45",
-    "location": { "lat": "41.7366", "lon": "-3.6886", "city": "VALLADOLID" },
+    "location": { "lat": "41.7365", "lon": "-3.6886", "city": "VALLADOLID" },
     "serialNumber": "45",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/45.jpg"
   },
@@ -415,11 +415,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_76",
-    "location": {
-      "lat": "42.368053",
-      "lon": "-3.6391945",
-      "city": "VALLADOLID"
-    },
+    "location": { "lat": "42.3681", "lon": "-3.6392", "city": "VALLADOLID" },
     "serialNumber": "76",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/76.jpg"
   },
@@ -431,7 +427,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_78",
-    "location": { "lat": "42.3792", "lon": "-3.5899", "city": "VALLADOLID" },
+    "location": { "lat": "42.3794", "lon": "-3.5895", "city": "VALLADOLID" },
     "serialNumber": "78",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/78.jpg"
   },
@@ -467,7 +463,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_84",
-    "location": { "lat": "42.3034", "lon": "-3.7533", "city": "VALLADOLID" },
+    "location": { "lat": "42.3034", "lon": "-3.7532", "city": "VALLADOLID" },
     "serialNumber": "84",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/84.jpg"
   },
@@ -1281,7 +1277,7 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_217",
-    "location": { "lat": "36.6248", "lon": "-4.51615", "city": "MALAGA" },
+    "location": { "lat": "36.619415", "lon": "-4.518033", "city": "MALAGA" },
     "serialNumber": "217",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/217.jpg"
   },
@@ -1353,7 +1349,7 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_229",
-    "location": { "lat": "36.74791", "lon": "-4.434483", "city": "MALAGA" },
+    "location": { "lat": "36.7465", "lon": "-4.44058", "city": "MALAGA" },
     "serialNumber": "229",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/229.jpg"
   },
@@ -1707,7 +1703,7 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_301",
-    "location": { "lat": "37.5322", "lon": "-3.63639", "city": "MALAGA" },
+    "location": { "lat": "37.532192", "lon": "-3.636417", "city": "MALAGA" },
     "serialNumber": "301",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/301.jpg"
   },
@@ -1725,7 +1721,7 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_304",
-    "location": { "lat": "37.8155", "lon": "-3.76635", "city": "MALAGA" },
+    "location": { "lat": "37.817608", "lon": "-3.765405", "city": "MALAGA" },
     "serialNumber": "304",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/304.jpg"
   },
@@ -1755,7 +1751,7 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_309",
-    "location": { "lat": "37.6099", "lon": "-3.60199", "city": "MALAGA" },
+    "location": { "lat": "37.609894", "lon": "-3.602011", "city": "MALAGA" },
     "serialNumber": "309",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/309.jpg"
   },
@@ -1767,19 +1763,19 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_312",
-    "location": { "lat": "37.1054", "lon": "-3.42692", "city": "MALAGA" },
+    "location": { "lat": "37.105434", "lon": "-3.426944", "city": "MALAGA" },
     "serialNumber": "312",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/312.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_313",
-    "location": { "lat": "37.0996", "lon": "-3.40937", "city": "MALAGA" },
+    "location": { "lat": "37.099598", "lon": "-3.409392", "city": "MALAGA" },
     "serialNumber": "313",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/313.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_314",
-    "location": { "lat": "37.157272", "lon": "-3.578753", "city": "MALAGA" },
+    "location": { "lat": "37.15898", "lon": "-3.574372", "city": "MALAGA" },
     "serialNumber": "314",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/314.jpg"
   },
@@ -1791,37 +1787,37 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_316",
-    "location": { "lat": "37.155", "lon": "-3.4932", "city": "MALAGA" },
+    "location": { "lat": "37.154346", "lon": "-3.491482", "city": "MALAGA" },
     "serialNumber": "316",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/316.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_317",
-    "location": { "lat": "37.1499", "lon": "-3.48527", "city": "MALAGA" },
+    "location": { "lat": "37.14976", "lon": "-3.485274", "city": "MALAGA" },
     "serialNumber": "317",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/317.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_318",
-    "location": { "lat": "37.1391", "lon": "-3.45667", "city": "MALAGA" },
+    "location": { "lat": "37.13835", "lon": "-3.45656", "city": "MALAGA" },
     "serialNumber": "318",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/318.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_319",
-    "location": { "lat": "37.13", "lon": "-3.44302", "city": "MALAGA" },
+    "location": { "lat": "37.13002", "lon": "-3.443039", "city": "MALAGA" },
     "serialNumber": "319",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/319.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_320",
-    "location": { "lat": "37.1239", "lon": "-3.44907", "city": "MALAGA" },
+    "location": { "lat": "37.12387", "lon": "-3.449089", "city": "MALAGA" },
     "serialNumber": "320",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/320.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_321",
-    "location": { "lat": "37.1539", "lon": "-3.53345", "city": "MALAGA" },
+    "location": { "lat": "37.15386", "lon": "-3.532502", "city": "MALAGA" },
     "serialNumber": "321",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/321.jpg"
   },
@@ -2325,13 +2321,13 @@
   },
   {
     "identification": "CAMARA-CGT MALAGA_511",
-    "location": { "lat": "37.025524", "lon": "-2.445763", "city": "MALAGA" },
+    "location": { "lat": "37.0184", "lon": "-2.444789", "city": "MALAGA" },
     "serialNumber": "511",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/511.jpg"
   },
   {
     "identification": "CAMARA-CGT MALAGA_512",
-    "location": { "lat": "36.968487", "lon": "-2.465232", "city": "MALAGA" },
+    "location": { "lat": "36.96139", "lon": "-2.466094", "city": "MALAGA" },
     "serialNumber": "512",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/512.jpg"
   },
@@ -4490,6 +4486,90 @@
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/901.jpg"
   },
   {
+    "identification": "CAMARA-CGT MADRID_902",
+    "location": { "lat": "40.864677", "lon": "-4.563675", "city": "MADRID" },
+    "serialNumber": "902",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/902.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_904",
+    "location": { "lat": "40.94923", "lon": "-4.605312", "city": "MADRID" },
+    "serialNumber": "904",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/904.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_905",
+    "location": { "lat": "40.786606", "lon": "-4.436318", "city": "MADRID" },
+    "serialNumber": "905",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/905.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_906",
+    "location": { "lat": "40.90323", "lon": "-4.57439", "city": "MADRID" },
+    "serialNumber": "906",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/906.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_907",
+    "location": { "lat": "40.821842", "lon": "-4.509966", "city": "MADRID" },
+    "serialNumber": "907",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/907.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_908",
+    "location": { "lat": "40.948956", "lon": "-4.593792", "city": "MADRID" },
+    "serialNumber": "908",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/908.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_910",
+    "location": { "lat": "40.737957", "lon": "-4.213003", "city": "MADRID" },
+    "serialNumber": "910",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/910.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_911",
+    "location": { "lat": "40.64099", "lon": "-4.023029", "city": "MADRID" },
+    "serialNumber": "911",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/911.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_912",
+    "location": { "lat": "40.751003", "lon": "-4.345398", "city": "MADRID" },
+    "serialNumber": "912",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/912.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_913",
+    "location": { "lat": "40.744526", "lon": "-4.304334", "city": "MADRID" },
+    "serialNumber": "913",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/913.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_914",
+    "location": { "lat": "40.64318", "lon": "-4.034345", "city": "MADRID" },
+    "serialNumber": "914",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/914.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_915",
+    "location": { "lat": "40.77157", "lon": "-4.390841", "city": "MADRID" },
+    "serialNumber": "915",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/915.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_917",
+    "location": { "lat": "40.74449", "lon": "-4.281742", "city": "MADRID" },
+    "serialNumber": "917",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/917.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_918",
+    "location": { "lat": "40.73663", "lon": "-4.266776", "city": "MADRID" },
+    "serialNumber": "918",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/918.jpg"
+  },
+  {
     "identification": "CAMARA-CGT MADRID_919",
     "location": { "lat": "40.3958", "lon": "-3.993429", "city": "MADRID" },
     "serialNumber": "919",
@@ -4652,6 +4732,12 @@
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/945.jpg"
   },
   {
+    "identification": "CAMARA-CGT MADRID_946",
+    "location": { "lat": "40.353283", "lon": "-3.63089", "city": "MADRID" },
+    "serialNumber": "946",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/946.jpg"
+  },
+  {
     "identification": "CAMARA-CGT MADRID_947",
     "location": { "lat": "40.362347", "lon": "-3.610253", "city": "MADRID" },
     "serialNumber": "947",
@@ -4716,6 +4802,12 @@
     "location": { "lat": "40.40819", "lon": "-3.533122", "city": "MADRID" },
     "serialNumber": "957",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/957.jpg"
+  },
+  {
+    "identification": "CAMARA-CGT MADRID_958",
+    "location": { "lat": "40.343853", "lon": "-3.654774", "city": "MADRID" },
+    "serialNumber": "958",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/958.jpg"
   },
   {
     "identification": "CAMARA-CGT MADRID_959",
@@ -5475,13 +5567,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1126",
-    "location": { "lat": "41.4532", "lon": "-5.0869", "city": "VALLADOLID" },
+    "location": { "lat": "41.4531", "lon": "-5.0869", "city": "VALLADOLID" },
     "serialNumber": "1126",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1126.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1137",
-    "location": { "lat": "40.9998", "lon": "-5.6276", "city": "VALLADOLID" },
+    "location": { "lat": "40.9998", "lon": "-5.6277", "city": "VALLADOLID" },
     "serialNumber": "1137",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1137.jpg"
   },
@@ -5565,13 +5657,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1152",
-    "location": { "lat": "42.3157", "lon": "-3.7023", "city": "VALLADOLID" },
+    "location": { "lat": "42.3157", "lon": "-3.7024", "city": "VALLADOLID" },
     "serialNumber": "1152",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1152.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1153",
-    "location": { "lat": "42.3086", "lon": "-3.726", "city": "VALLADOLID" },
+    "location": { "lat": "42.3087", "lon": "-3.726", "city": "VALLADOLID" },
     "serialNumber": "1153",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1153.jpg"
   },
@@ -6151,7 +6243,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1253",
-    "location": { "lat": "42.4366", "lon": "-5.5848", "city": "VALLADOLID" },
+    "location": { "lat": "42.4367", "lon": "-5.5848", "city": "VALLADOLID" },
     "serialNumber": "1253",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1253.jpg"
   },
@@ -6163,7 +6255,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1255",
-    "location": { "lat": "42.5742", "lon": "-5.6619", "city": "VALLADOLID" },
+    "location": { "lat": "42.5743", "lon": "-5.662", "city": "VALLADOLID" },
     "serialNumber": "1255",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1255.jpg"
   },
@@ -7141,13 +7233,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1510",
-    "location": { "lat": "42.3784", "lon": "-3.936", "city": "VALLADOLID" },
+    "location": { "lat": "42.3783", "lon": "-3.9359", "city": "VALLADOLID" },
     "serialNumber": "1510",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1510.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1511",
-    "location": { "lat": "42.3513", "lon": "-3.7956", "city": "VALLADOLID" },
+    "location": { "lat": "42.3513", "lon": "-3.7953", "city": "VALLADOLID" },
     "serialNumber": "1511",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1511.jpg"
   },
@@ -7315,7 +7407,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1540",
-    "location": { "lat": "42.5357", "lon": "-3.3186", "city": "VALLADOLID" },
+    "location": { "lat": "42.5356", "lon": "-3.3185", "city": "VALLADOLID" },
     "serialNumber": "1540",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1540.jpg"
   },
@@ -7333,7 +7425,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1543",
-    "location": { "lat": "42.3495", "lon": "-4.623", "city": "VALLADOLID" },
+    "location": { "lat": "42.3495", "lon": "-4.6229", "city": "VALLADOLID" },
     "serialNumber": "1543",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1543.jpg"
   },
@@ -7857,7 +7949,7 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1667",
-    "location": { "lat": "41.278", "lon": "-3.6041", "city": "VALLADOLID" },
+    "location": { "lat": "41.2779", "lon": "-3.604", "city": "VALLADOLID" },
     "serialNumber": "1667",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1667.jpg"
   },
@@ -7869,13 +7961,13 @@
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1669",
-    "location": { "lat": "41.1777", "lon": "-4.8058", "city": "VALLADOLID" },
+    "location": { "lat": "41.1777", "lon": "-4.806", "city": "VALLADOLID" },
     "serialNumber": "1669",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1669.jpg"
   },
   {
     "identification": "CAMARA-CGT VALLADOLID_1670",
-    "location": { "lat": "41.7803", "lon": "-5.3187", "city": "VALLADOLID" },
+    "location": { "lat": "41.7803", "lon": "-5.3188", "city": "VALLADOLID" },
     "serialNumber": "1670",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/1670.jpg"
   },
@@ -8055,7 +8147,7 @@
   },
   {
     "identification": "VID-CGT VALLADOLID_160013",
-    "location": { "lat": "41.3021", "lon": "-5.2296", "city": "VALLADOLID" },
+    "location": { "lat": "41.3022", "lon": "-5.2296", "city": "VALLADOLID" },
     "serialNumber": "160013",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/160013.jpg"
   },
@@ -8073,13 +8165,13 @@
   },
   {
     "identification": "VID-CGT VALLADOLID_160016",
-    "location": { "lat": "41.0564", "lon": "-5.5434", "city": "VALLADOLID" },
+    "location": { "lat": "41.0563", "lon": "-5.5435", "city": "VALLADOLID" },
     "serialNumber": "160016",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/160016.jpg"
   },
   {
     "identification": "VID-CGT VALLADOLID_160017",
-    "location": { "lat": "41.174", "lon": "-5.3743", "city": "VALLADOLID" },
+    "location": { "lat": "41.1742", "lon": "-5.3744", "city": "VALLADOLID" },
     "serialNumber": "160017",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/160017.jpg"
   },
@@ -8091,7 +8183,7 @@
   },
   {
     "identification": "VID-CGT VALLADOLID_160019",
-    "location": { "lat": "41.3454", "lon": "-5.1767", "city": "VALLADOLID" },
+    "location": { "lat": "41.3452", "lon": "-5.1766", "city": "VALLADOLID" },
     "serialNumber": "160019",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/160019.jpg"
   },
@@ -8790,5 +8882,1545 @@
     "location": { "lat": "41.255283", "lon": "-1.246966", "city": "ZARAGOZA" },
     "serialNumber": "165638",
     "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165638.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_165639",
+    "location": { "lat": "40.9041", "lon": "-1.2969", "city": "ZARAGOZA" },
+    "serialNumber": "165639",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165639.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_165640",
+    "location": { "lat": "40.746815", "lon": "-1.3323", "city": "ZARAGOZA" },
+    "serialNumber": "165640",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165640.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_165641",
+    "location": { "lat": "40.418865", "lon": "-1.194966", "city": "ZARAGOZA" },
+    "serialNumber": "165641",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165641.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_165642",
+    "location": { "lat": "40.193165", "lon": "-0.9107", "city": "ZARAGOZA" },
+    "serialNumber": "165642",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165642.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_165643",
+    "location": { "lat": "40.084915", "lon": "-0.728316", "city": "ZARAGOZA" },
+    "serialNumber": "165643",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165643.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165651",
+    "location": { "lat": "42.879295", "lon": "-8.516514", "city": "CORUÑA" },
+    "serialNumber": "165651",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165651.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165657",
+    "location": { "lat": "42.297108", "lon": "-8.656954", "city": "CORUÑA" },
+    "serialNumber": "165657",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165657.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165659",
+    "location": { "lat": "42.27926", "lon": "-8.661", "city": "CORUÑA" },
+    "serialNumber": "165659",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165659.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165661",
+    "location": { "lat": "42.26967", "lon": "-8.663454", "city": "CORUÑA" },
+    "serialNumber": "165661",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165661.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165662",
+    "location": { "lat": "42.038166", "lon": "-8.647883", "city": "CORUÑA" },
+    "serialNumber": "165662",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165662.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165666",
+    "location": { "lat": "41.812325", "lon": "-7.422716", "city": "CORUÑA" },
+    "serialNumber": "165666",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165666.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165669",
+    "location": { "lat": "41.81471", "lon": "-7.414807", "city": "CORUÑA" },
+    "serialNumber": "165669",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165669.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_165828",
+    "location": { "lat": "41.4028", "lon": "-4.9613", "city": "VALLADOLID" },
+    "serialNumber": "165828",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165828.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165883",
+    "location": { "lat": "42.183964", "lon": "-8.696377", "city": "CORUÑA" },
+    "serialNumber": "165883",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165883.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165884",
+    "location": { "lat": "42.18651", "lon": "-8.710593", "city": "CORUÑA" },
+    "serialNumber": "165884",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165884.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_165885",
+    "location": { "lat": "42.19607", "lon": "-8.74933", "city": "CORUÑA" },
+    "serialNumber": "165885",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165885.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_165886",
+    "location": { "lat": "39.43358", "lon": "-0.820686", "city": "VALENCIA" },
+    "serialNumber": "165886",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/165886.jpg"
+  },
+  {
+    "identification": "VID-CGT BALEARES_166011",
+    "location": { "lat": "39.62646", "lon": "2.7152588", "city": "BALEARES" },
+    "serialNumber": "166011",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166011.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166050",
+    "location": { "lat": "43.3536", "lon": "-5.1253", "city": "CORUÑA" },
+    "serialNumber": "166050",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166050.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166051",
+    "location": { "lat": "43.3366", "lon": "-5.0839", "city": "CORUÑA" },
+    "serialNumber": "166051",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166051.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166052",
+    "location": { "lat": "43.3154", "lon": "-5.0689", "city": "CORUÑA" },
+    "serialNumber": "166052",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166052.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166053",
+    "location": { "lat": "43.3126", "lon": "-5.0597", "city": "CORUÑA" },
+    "serialNumber": "166053",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166053.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166054",
+    "location": { "lat": "43.3076", "lon": "-5.051", "city": "CORUÑA" },
+    "serialNumber": "166054",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166054.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166055",
+    "location": { "lat": "42.8096", "lon": "-4.2233", "city": "VALLADOLID" },
+    "serialNumber": "166055",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166055.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166056",
+    "location": { "lat": "42.8626", "lon": "-4.1565", "city": "VALLADOLID" },
+    "serialNumber": "166056",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166056.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166057",
+    "location": { "lat": "42.9045", "lon": "-4.1181", "city": "CORUÑA" },
+    "serialNumber": "166057",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166057.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166058",
+    "location": { "lat": "42.9572", "lon": "-4.1559", "city": "CORUÑA" },
+    "serialNumber": "166058",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166058.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_166059",
+    "location": { "lat": "43.0218", "lon": "-4.1188", "city": "CORUÑA" },
+    "serialNumber": "166059",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166059.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_166060",
+    "location": { "lat": "37.84343", "lon": "-1.10501", "city": "VALENCIA" },
+    "serialNumber": "166060",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166060.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_166061",
+    "location": { "lat": "37.81958", "lon": "-1.09267", "city": "VALENCIA" },
+    "serialNumber": "166061",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166061.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_166454",
+    "location": { "lat": "42.77415", "lon": "-0.3680391", "city": "ZARAGOZA" },
+    "serialNumber": "166454",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166454.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_166520",
+    "location": { "lat": "41.30333", "lon": "-1.9447675", "city": "ZARAGOZA" },
+    "serialNumber": "166520",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166520.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_166522",
+    "location": { "lat": "40.43581", "lon": "-3.7204256", "city": "MADRID" },
+    "serialNumber": "166522",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166522.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_166523",
+    "location": { "lat": "40.435738", "lon": "-3.720278", "city": "MADRID" },
+    "serialNumber": "166523",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166523.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166550",
+    "location": { "lat": "41.896", "lon": "-4.5221", "city": "VALLADOLID" },
+    "serialNumber": "166550",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166550.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_166562",
+    "location": {
+      "lat": "42.743504",
+      "lon": "-0.51813376",
+      "city": "ZARAGOZA"
+    },
+    "serialNumber": "166562",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166562.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166756",
+    "location": { "lat": "43.3394", "lon": "-1.754", "city": "VALLADOLID" },
+    "serialNumber": "166756",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166756.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166757",
+    "location": { "lat": "43.3439", "lon": "-1.7609", "city": "VALLADOLID" },
+    "serialNumber": "166757",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166757.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166758",
+    "location": { "lat": "43.3489", "lon": "-1.7854", "city": "VALLADOLID" },
+    "serialNumber": "166758",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166758.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_166912",
+    "location": {
+      "lat": "40.601578",
+      "lon": "-6.817697",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "166912",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166912.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_166913",
+    "location": { "lat": "41.489594", "lon": "-1.363151", "city": "ZARAGOZA" },
+    "serialNumber": "166913",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/166913.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_167045",
+    "location": { "lat": "41.31818", "lon": "-1.7789668", "city": "ZARAGOZA" },
+    "serialNumber": "167045",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167045.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_167062",
+    "location": { "lat": "42.400444", "lon": "-0.3850998", "city": "ZARAGOZA" },
+    "serialNumber": "167062",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167062.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167124",
+    "location": { "lat": "42.17681", "lon": "-8.560283", "city": "CORUÑA" },
+    "serialNumber": "167124",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167124.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167126",
+    "location": { "lat": "42.21507", "lon": "-8.259268", "city": "CORUÑA" },
+    "serialNumber": "167126",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167126.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167134",
+    "location": { "lat": "42.333706", "lon": "-7.966966", "city": "CORUÑA" },
+    "serialNumber": "167134",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167134.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167138",
+    "location": { "lat": "42.025402", "lon": "-7.183133", "city": "CORUÑA" },
+    "serialNumber": "167138",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167138.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167171",
+    "location": { "lat": "42.05311", "lon": "-7.147433", "city": "CORUÑA" },
+    "serialNumber": "167171",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167171.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167210",
+    "location": { "lat": "42.244137", "lon": "-8.700187", "city": "CORUÑA" },
+    "serialNumber": "167210",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167210.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167211",
+    "location": { "lat": "42.236477", "lon": "-8.709913", "city": "CORUÑA" },
+    "serialNumber": "167211",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167211.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167248",
+    "location": { "lat": "39.096886", "lon": "-1.9775178", "city": "VALENCIA" },
+    "serialNumber": "167248",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167248.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167283",
+    "location": { "lat": "43.24254", "lon": "-8.101416", "city": "CORUÑA" },
+    "serialNumber": "167283",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167283.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167284",
+    "location": { "lat": "43.19015", "lon": "-8.013458", "city": "CORUÑA" },
+    "serialNumber": "167284",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167284.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167285",
+    "location": { "lat": "43.188004", "lon": "-7.929718", "city": "CORUÑA" },
+    "serialNumber": "167285",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167285.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167286",
+    "location": { "lat": "43.10641", "lon": "-7.603734", "city": "CORUÑA" },
+    "serialNumber": "167286",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167286.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167287",
+    "location": { "lat": "42.940197", "lon": "-7.395278", "city": "CORUÑA" },
+    "serialNumber": "167287",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167287.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167288",
+    "location": { "lat": "42.056194", "lon": "-7.667836", "city": "CORUÑA" },
+    "serialNumber": "167288",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167288.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167289",
+    "location": { "lat": "42.14311", "lon": "-8.462173", "city": "CORUÑA" },
+    "serialNumber": "167289",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167289.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_167293",
+    "location": { "lat": "42.565346", "lon": "-0.5083405", "city": "ZARAGOZA" },
+    "serialNumber": "167293",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167293.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167406",
+    "location": { "lat": "40.51", "lon": "-3.88", "city": "MADRID" },
+    "serialNumber": "167406",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167406.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167424",
+    "location": { "lat": "41.27134", "lon": "-2.1772163", "city": "MADRID" },
+    "serialNumber": "167424",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167424.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167425",
+    "location": { "lat": "41.318203", "lon": "-2.0481205", "city": "MADRID" },
+    "serialNumber": "167425",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167425.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167426",
+    "location": { "lat": "37.90743", "lon": "-1.156627", "city": "VALENCIA" },
+    "serialNumber": "167426",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167426.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167427",
+    "location": { "lat": "37.890404", "lon": "-1.141222", "city": "VALENCIA" },
+    "serialNumber": "167427",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167427.jpg"
+  },
+  {
+    "identification": "VID-CGT BALEARES_167438",
+    "location": { "lat": "39.912655", "lon": "3.100515", "city": "BALEARES" },
+    "serialNumber": "167438",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167438.jpg"
+  },
+  {
+    "identification": "VID-CGT BALEARES_167439",
+    "location": { "lat": "39.91271", "lon": "3.100515", "city": "BALEARES" },
+    "serialNumber": "167439",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167439.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167445",
+    "location": { "lat": "40.618607", "lon": "-3.225181", "city": "MADRID" },
+    "serialNumber": "167445",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167445.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167446",
+    "location": { "lat": "39.49361", "lon": "-0.33199", "city": "VALENCIA" },
+    "serialNumber": "167446",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167446.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167447",
+    "location": { "lat": "39.02252", "lon": "-1.86978", "city": "VALENCIA" },
+    "serialNumber": "167447",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167447.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_167448",
+    "location": { "lat": "38.98443", "lon": "-1.82648", "city": "VALENCIA" },
+    "serialNumber": "167448",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167448.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167466",
+    "location": { "lat": "40.383377", "lon": "-4.2102385", "city": "MADRID" },
+    "serialNumber": "167466",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167466.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167470",
+    "location": { "lat": "40.36255", "lon": "-4.311948", "city": "MADRID" },
+    "serialNumber": "167470",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167470.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167473",
+    "location": { "lat": "42.70491", "lon": "-7.003808", "city": "CORUÑA" },
+    "serialNumber": "167473",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167473.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167527",
+    "location": { "lat": "41.075054", "lon": "-3.457869", "city": "MADRID" },
+    "serialNumber": "167527",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167527.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167528",
+    "location": { "lat": "40.57693", "lon": "-4.1248946", "city": "MADRID" },
+    "serialNumber": "167528",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167528.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_167596",
+    "location": { "lat": "40.61185", "lon": "-6.81723", "city": "VALLADOLID" },
+    "serialNumber": "167596",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167596.jpg"
+  },
+  {
+    "identification": "VID-CGT SEVILLA_167598",
+    "location": { "lat": "35.876923", "lon": "-5.3399806", "city": "SEVILLA" },
+    "serialNumber": "167598",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167598.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167599",
+    "location": { "lat": "39.88845", "lon": "-3.47112", "city": "MADRID" },
+    "serialNumber": "167599",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167599.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167600",
+    "location": { "lat": "39.96704", "lon": "-2.93805", "city": "MADRID" },
+    "serialNumber": "167600",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167600.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167601",
+    "location": { "lat": "39.72815", "lon": "-3.49181", "city": "MADRID" },
+    "serialNumber": "167601",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167601.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167602",
+    "location": { "lat": "39.23784", "lon": "-3.41186", "city": "MADRID" },
+    "serialNumber": "167602",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167602.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167603",
+    "location": { "lat": "39.2904", "lon": "-3.45713", "city": "MADRID" },
+    "serialNumber": "167603",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167603.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167604",
+    "location": { "lat": "39.76407", "lon": "-3.48112", "city": "MADRID" },
+    "serialNumber": "167604",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167604.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167605",
+    "location": { "lat": "39.84851", "lon": "-3.47253", "city": "MADRID" },
+    "serialNumber": "167605",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167605.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167606",
+    "location": { "lat": "39.80481", "lon": "-3.47866", "city": "MADRID" },
+    "serialNumber": "167606",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167606.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167607",
+    "location": { "lat": "36.72306", "lon": "-4.55338", "city": "MALAGA" },
+    "serialNumber": "167607",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167607.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167608",
+    "location": { "lat": "36.73056", "lon": "-4.5504", "city": "MALAGA" },
+    "serialNumber": "167608",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167608.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167609",
+    "location": { "lat": "36.721363", "lon": "-4.57832", "city": "MALAGA" },
+    "serialNumber": "167609",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167609.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167610",
+    "location": { "lat": "36.71632", "lon": "-4.555598", "city": "MALAGA" },
+    "serialNumber": "167610",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167610.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167611",
+    "location": { "lat": "36.71166", "lon": "-4.53903", "city": "MALAGA" },
+    "serialNumber": "167611",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167611.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_167612",
+    "location": { "lat": "36.712036", "lon": "-4.51213", "city": "MALAGA" },
+    "serialNumber": "167612",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167612.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167613",
+    "location": { "lat": "42.72665", "lon": "-7.02561", "city": "CORUÑA" },
+    "serialNumber": "167613",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167613.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167667",
+    "location": { "lat": "40.3469", "lon": "-3.58457", "city": "MADRID" },
+    "serialNumber": "167667",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167667.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167781",
+    "location": { "lat": "40.35372", "lon": "-3.6377244", "city": "MADRID" },
+    "serialNumber": "167781",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167781.jpg"
+  },
+  {
+    "identification": "VID-CGT SEVILLA_167801",
+    "location": { "lat": "37.26507", "lon": "-6.997669", "city": "SEVILLA" },
+    "serialNumber": "167801",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167801.jpg"
+  },
+  {
+    "identification": "VID-CGT SEVILLA_167836",
+    "location": { "lat": "37.379898", "lon": "-5.942823", "city": "SEVILLA" },
+    "serialNumber": "167836",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167836.jpg"
+  },
+  {
+    "identification": "VID-CGT SEVILLA_167841",
+    "location": { "lat": "37.36573", "lon": "-6.0131316", "city": "SEVILLA" },
+    "serialNumber": "167841",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167841.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167941",
+    "location": { "lat": "42.919754", "lon": "-7.210173", "city": "CORUÑA" },
+    "serialNumber": "167941",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167941.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_167942",
+    "location": { "lat": "42.968063", "lon": "-7.500288", "city": "CORUÑA" },
+    "serialNumber": "167942",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167942.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167966",
+    "location": { "lat": "40.63545", "lon": "-4.01091", "city": "MADRID" },
+    "serialNumber": "167966",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167966.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167967",
+    "location": { "lat": "40.64317", "lon": "-4.0379", "city": "MADRID" },
+    "serialNumber": "167967",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167967.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167968",
+    "location": { "lat": "40.64773", "lon": "-4.05619", "city": "MADRID" },
+    "serialNumber": "167968",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167968.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167969",
+    "location": { "lat": "40.6489", "lon": "-4.06817", "city": "MADRID" },
+    "serialNumber": "167969",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167969.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167970",
+    "location": { "lat": "40.65756", "lon": "-4.09404", "city": "MADRID" },
+    "serialNumber": "167970",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167970.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167971",
+    "location": { "lat": "40.66677", "lon": "-4.10215", "city": "MADRID" },
+    "serialNumber": "167971",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167971.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167972",
+    "location": { "lat": "40.6686", "lon": "-4.10496", "city": "MADRID" },
+    "serialNumber": "167972",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167972.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167973",
+    "location": { "lat": "40.6743", "lon": "-4.11331", "city": "MADRID" },
+    "serialNumber": "167973",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167973.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167974",
+    "location": { "lat": "40.68077", "lon": "-4.11794", "city": "MADRID" },
+    "serialNumber": "167974",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167974.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167975",
+    "location": { "lat": "40.68441", "lon": "-4.11743", "city": "MADRID" },
+    "serialNumber": "167975",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167975.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167976",
+    "location": { "lat": "40.69047", "lon": "-4.12249", "city": "MADRID" },
+    "serialNumber": "167976",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167976.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167977",
+    "location": { "lat": "40.6896", "lon": "-4.12188", "city": "MADRID" },
+    "serialNumber": "167977",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167977.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167978",
+    "location": { "lat": "40.69707", "lon": "-4.12713", "city": "MADRID" },
+    "serialNumber": "167978",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167978.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167979",
+    "location": { "lat": "40.6979", "lon": "-4.12801", "city": "MADRID" },
+    "serialNumber": "167979",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167979.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167980",
+    "location": { "lat": "40.6979", "lon": "-4.12801", "city": "MADRID" },
+    "serialNumber": "167980",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167980.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167981",
+    "location": { "lat": "40.71573", "lon": "-4.16006", "city": "MADRID" },
+    "serialNumber": "167981",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167981.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167982",
+    "location": { "lat": "40.71443", "lon": "-4.1562", "city": "MADRID" },
+    "serialNumber": "167982",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167982.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167983",
+    "location": { "lat": "40.71581", "lon": "-4.16034", "city": "MADRID" },
+    "serialNumber": "167983",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167983.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167984",
+    "location": { "lat": "40.7162", "lon": "-4.16398", "city": "MADRID" },
+    "serialNumber": "167984",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167984.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167985",
+    "location": { "lat": "40.71352", "lon": "-4.17774", "city": "MADRID" },
+    "serialNumber": "167985",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167985.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167986",
+    "location": { "lat": "40.715", "lon": "-4.18523", "city": "MADRID" },
+    "serialNumber": "167986",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167986.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167987",
+    "location": { "lat": "40.72677", "lon": "-4.19296", "city": "MADRID" },
+    "serialNumber": "167987",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167987.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167988",
+    "location": { "lat": "40.72963", "lon": "-4.19442", "city": "MADRID" },
+    "serialNumber": "167988",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167988.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167989",
+    "location": { "lat": "40.73415", "lon": "-4.20154", "city": "MADRID" },
+    "serialNumber": "167989",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167989.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167990",
+    "location": { "lat": "40.73923", "lon": "-4.23622", "city": "MADRID" },
+    "serialNumber": "167990",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167990.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167991",
+    "location": { "lat": "40.74365", "lon": "-4.31694", "city": "MADRID" },
+    "serialNumber": "167991",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167991.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167992",
+    "location": { "lat": "40.74765", "lon": "-4.34007", "city": "MADRID" },
+    "serialNumber": "167992",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167992.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167993",
+    "location": { "lat": "40.75883", "lon": "-4.36488", "city": "MADRID" },
+    "serialNumber": "167993",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167993.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167994",
+    "location": { "lat": "40.7707", "lon": "-4.40359", "city": "MADRID" },
+    "serialNumber": "167994",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167994.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167995",
+    "location": { "lat": "40.773", "lon": "-4.41457", "city": "MADRID" },
+    "serialNumber": "167995",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167995.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167996",
+    "location": { "lat": "40.7742", "lon": "-4.41951", "city": "MADRID" },
+    "serialNumber": "167996",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167996.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167997",
+    "location": { "lat": "40.77524", "lon": "-4.42607", "city": "MADRID" },
+    "serialNumber": "167997",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167997.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167998",
+    "location": { "lat": "40.7891", "lon": "-4.43931", "city": "MADRID" },
+    "serialNumber": "167998",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167998.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_167999",
+    "location": { "lat": "40.79516", "lon": "-4.46783", "city": "MADRID" },
+    "serialNumber": "167999",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/167999.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168000",
+    "location": { "lat": "40.82862", "lon": "-4.52147", "city": "MADRID" },
+    "serialNumber": "168000",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168000.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168001",
+    "location": { "lat": "40.85021", "lon": "-4.54418", "city": "MADRID" },
+    "serialNumber": "168001",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168001.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168002",
+    "location": { "lat": "40.8107", "lon": "-4.48631", "city": "MADRID" },
+    "serialNumber": "168002",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168002.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168003",
+    "location": { "lat": "40.88536", "lon": "-4.57323", "city": "MADRID" },
+    "serialNumber": "168003",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168003.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168004",
+    "location": { "lat": "40.8915", "lon": "-4.57489", "city": "MADRID" },
+    "serialNumber": "168004",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168004.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168005",
+    "location": { "lat": "40.91491", "lon": "-4.58031", "city": "MADRID" },
+    "serialNumber": "168005",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168005.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168006",
+    "location": { "lat": "40.93793", "lon": "-4.5858", "city": "MADRID" },
+    "serialNumber": "168006",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168006.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168007",
+    "location": { "lat": "40.82157", "lon": "-4.18292", "city": "MADRID" },
+    "serialNumber": "168007",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168007.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168008",
+    "location": { "lat": "40.78581", "lon": "-4.21321", "city": "MADRID" },
+    "serialNumber": "168008",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168008.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168009",
+    "location": { "lat": "40.90813", "lon": "-4.10314", "city": "MADRID" },
+    "serialNumber": "168009",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168009.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168010",
+    "location": { "lat": "40.74088", "lon": "-4.20407", "city": "MADRID" },
+    "serialNumber": "168010",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168010.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168011",
+    "location": { "lat": "40.75854", "lon": "-4.21227", "city": "MADRID" },
+    "serialNumber": "168011",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168011.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168012",
+    "location": { "lat": "40.82219", "lon": "-4.18025", "city": "MADRID" },
+    "serialNumber": "168012",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168012.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168013",
+    "location": { "lat": "40.8428", "lon": "-4.14565", "city": "MADRID" },
+    "serialNumber": "168013",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168013.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168014",
+    "location": { "lat": "40.87108", "lon": "-4.12253", "city": "MADRID" },
+    "serialNumber": "168014",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168014.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168015",
+    "location": { "lat": "40.76813", "lon": "-4.43406", "city": "MADRID" },
+    "serialNumber": "168015",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168015.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168016",
+    "location": { "lat": "40.75005", "lon": "-4.47753", "city": "MADRID" },
+    "serialNumber": "168016",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168016.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168017",
+    "location": { "lat": "40.69134", "lon": "-4.58679", "city": "MADRID" },
+    "serialNumber": "168017",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168017.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168018",
+    "location": { "lat": "40.6782", "lon": "-4.63563", "city": "MADRID" },
+    "serialNumber": "168018",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168018.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168019",
+    "location": { "lat": "40.7344", "lon": "-4.50209", "city": "MADRID" },
+    "serialNumber": "168019",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168019.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168020",
+    "location": { "lat": "40.72297", "lon": "-4.5277", "city": "MADRID" },
+    "serialNumber": "168020",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168020.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168021",
+    "location": { "lat": "40.70019", "lon": "-4.5743", "city": "MADRID" },
+    "serialNumber": "168021",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168021.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168022",
+    "location": { "lat": "40.6744", "lon": "-4.61595", "city": "MADRID" },
+    "serialNumber": "168022",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168022.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168070",
+    "location": { "lat": "43.11356", "lon": "-5.819016", "city": "VALLADOLID" },
+    "serialNumber": "168070",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168070.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168071",
+    "location": { "lat": "43.1082", "lon": "-5.8203263", "city": "VALLADOLID" },
+    "serialNumber": "168071",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168071.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168072",
+    "location": {
+      "lat": "43.09128",
+      "lon": "-5.8230886",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168072",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168072.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168073",
+    "location": {
+      "lat": "43.088566",
+      "lon": "-5.8225913",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168073",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168073.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168074",
+    "location": { "lat": "43.08161", "lon": "-5.825999", "city": "VALLADOLID" },
+    "serialNumber": "168074",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168074.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168075",
+    "location": {
+      "lat": "43.053017",
+      "lon": "-5.8202553",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168075",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168075.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168076",
+    "location": { "lat": "43.03956", "lon": "-5.819693", "city": "VALLADOLID" },
+    "serialNumber": "168076",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168076.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168077",
+    "location": {
+      "lat": "43.021187",
+      "lon": "-5.8232365",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168077",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168077.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168078",
+    "location": {
+      "lat": "43.016605",
+      "lon": "-5.815447",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168078",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168078.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168079",
+    "location": {
+      "lat": "43.009457",
+      "lon": "-5.816679",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168079",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168079.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168080",
+    "location": {
+      "lat": "43.004753",
+      "lon": "-5.8168564",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168080",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168080.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168081",
+    "location": {
+      "lat": "43.001842",
+      "lon": "-5.815925",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168081",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168081.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168082",
+    "location": {
+      "lat": "42.999058",
+      "lon": "-5.816802",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168082",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168082.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168083",
+    "location": { "lat": "42.99473", "lon": "-5.816283", "city": "VALLADOLID" },
+    "serialNumber": "168083",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168083.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168084",
+    "location": {
+      "lat": "42.992798",
+      "lon": "-5.8159204",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168084",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168084.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168085",
+    "location": {
+      "lat": "42.986588",
+      "lon": "-5.821382",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168085",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168085.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168086",
+    "location": {
+      "lat": "42.978928",
+      "lon": "-5.831291",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168086",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168086.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168087",
+    "location": {
+      "lat": "42.977413",
+      "lon": "-5.832034",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168087",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168087.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168088",
+    "location": { "lat": "42.95942", "lon": "-5.839447", "city": "VALLADOLID" },
+    "serialNumber": "168088",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168088.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168089",
+    "location": {
+      "lat": "42.968456",
+      "lon": "-5.836598",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168089",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168089.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168090",
+    "location": {
+      "lat": "42.965076",
+      "lon": "-5.837137",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168090",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168090.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168091",
+    "location": {
+      "lat": "42.95754",
+      "lon": "-5.8409877",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168091",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168091.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168092",
+    "location": {
+      "lat": "42.953735",
+      "lon": "-5.8414264",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168092",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168092.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168093",
+    "location": {
+      "lat": "42.941227",
+      "lon": "-5.8456354",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168093",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168093.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168094",
+    "location": {
+      "lat": "42.935467",
+      "lon": "-5.8456354",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168094",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168094.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168095",
+    "location": { "lat": "42.93147", "lon": "-5.851666", "city": "VALLADOLID" },
+    "serialNumber": "168095",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168095.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168096",
+    "location": {
+      "lat": "42.927143",
+      "lon": "-5.8627887",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168096",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168096.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168097",
+    "location": {
+      "lat": "42.919132",
+      "lon": "-5.885597",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168097",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168097.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168098",
+    "location": {
+      "lat": "42.90869",
+      "lon": "-5.8926787",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168098",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168098.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168099",
+    "location": { "lat": "42.906063", "lon": "-5.88928", "city": "VALLADOLID" },
+    "serialNumber": "168099",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168099.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168100",
+    "location": {
+      "lat": "42.90541",
+      "lon": "-5.8882856",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168100",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168100.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168101",
+    "location": { "lat": "42.89124", "lon": "-5.886676", "city": "VALLADOLID" },
+    "serialNumber": "168101",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168101.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168102",
+    "location": {
+      "lat": "42.888954",
+      "lon": "-5.887948",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168102",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168102.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168103",
+    "location": {
+      "lat": "42.882465",
+      "lon": "-5.891327",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168103",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168103.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168104",
+    "location": {
+      "lat": "42.877907",
+      "lon": "-5.880783",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168104",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168104.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168105",
+    "location": { "lat": "42.8674", "lon": "-5.883235", "city": "VALLADOLID" },
+    "serialNumber": "168105",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168105.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168106",
+    "location": {
+      "lat": "42.86319",
+      "lon": "-5.8755126",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168106",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168106.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168107",
+    "location": { "lat": "42.8613", "lon": "-5.87347", "city": "VALLADOLID" },
+    "serialNumber": "168107",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168107.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168108",
+    "location": { "lat": "42.86093", "lon": "-5.873771", "city": "VALLADOLID" },
+    "serialNumber": "168108",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168108.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168109",
+    "location": {
+      "lat": "42.854424",
+      "lon": "-5.8747816",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168109",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168109.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168110",
+    "location": { "lat": "42.853973", "lon": "-5.8741", "city": "VALLADOLID" },
+    "serialNumber": "168110",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168110.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168111",
+    "location": {
+      "lat": "42.847713",
+      "lon": "-5.8750453",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168111",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168111.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168112",
+    "location": { "lat": "42.844044", "lon": "-5.87585", "city": "VALLADOLID" },
+    "serialNumber": "168112",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168112.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168113",
+    "location": {
+      "lat": "42.838734",
+      "lon": "-5.8727784",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168113",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168113.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168114",
+    "location": {
+      "lat": "42.824394",
+      "lon": "-5.8673024",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168114",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168114.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168115",
+    "location": {
+      "lat": "42.817154",
+      "lon": "-5.8491654",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168115",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168115.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168116",
+    "location": {
+      "lat": "42.795208",
+      "lon": "-5.823371",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168116",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168116.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168117",
+    "location": { "lat": "42.74923", "lon": "-5.77023", "city": "VALLADOLID" },
+    "serialNumber": "168117",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168117.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168118",
+    "location": { "lat": "42.7064", "lon": "-5.7906375", "city": "VALLADOLID" },
+    "serialNumber": "168118",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168118.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168119",
+    "location": {
+      "lat": "42.697273",
+      "lon": "-5.778777",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168119",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168119.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168120",
+    "location": { "lat": "42.690636", "lon": "-5.76863", "city": "VALLADOLID" },
+    "serialNumber": "168120",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168120.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168121",
+    "location": { "lat": "42.662357", "lon": "-5.75116", "city": "VALLADOLID" },
+    "serialNumber": "168121",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168121.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168122",
+    "location": {
+      "lat": "42.578342",
+      "lon": "-5.6671104",
+      "city": "VALLADOLID"
+    },
+    "serialNumber": "168122",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168122.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168123",
+    "location": { "lat": "41.6059", "lon": "-4.7378", "city": "VALLADOLID" },
+    "serialNumber": "168123",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168123.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168124",
+    "location": { "lat": "41.6083", "lon": "-4.7621", "city": "VALLADOLID" },
+    "serialNumber": "168124",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168124.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168125",
+    "location": {
+      "lat": "42.286854",
+      "lon": "-0.42424285",
+      "city": "ZARAGOZA"
+    },
+    "serialNumber": "168125",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168125.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168126",
+    "location": {
+      "lat": "42.322952",
+      "lon": "-0.42097837",
+      "city": "ZARAGOZA"
+    },
+    "serialNumber": "168126",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168126.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168127",
+    "location": { "lat": "42.380768", "lon": "-0.37284", "city": "ZARAGOZA" },
+    "serialNumber": "168127",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168127.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168197",
+    "location": { "lat": "41.54953", "lon": "-0.70813024", "city": "ZARAGOZA" },
+    "serialNumber": "168197",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168197.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168198",
+    "location": { "lat": "41.698914", "lon": "-1.0072523", "city": "ZARAGOZA" },
+    "serialNumber": "168198",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168198.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168199",
+    "location": { "lat": "41.618782", "lon": "-0.8435644", "city": "ZARAGOZA" },
+    "serialNumber": "168199",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168199.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_168248",
+    "location": { "lat": "42.722137", "lon": "-7.0144687", "city": "CORUÑA" },
+    "serialNumber": "168248",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168248.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_168255",
+    "location": { "lat": "39.48271", "lon": "-0.54507", "city": "VALENCIA" },
+    "serialNumber": "168255",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168255.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_168275",
+    "location": { "lat": "39.52736", "lon": "-0.31388", "city": "VALENCIA" },
+    "serialNumber": "168275",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168275.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_168276",
+    "location": { "lat": "39.51891", "lon": "-0.31929", "city": "VALENCIA" },
+    "serialNumber": "168276",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168276.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_168277",
+    "location": { "lat": "39.4952", "lon": "-0.32826", "city": "VALENCIA" },
+    "serialNumber": "168277",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168277.jpg"
+  },
+  {
+    "identification": "VID-CGT VALENCIA_168278",
+    "location": { "lat": "39.49142", "lon": "-0.33593", "city": "VALENCIA" },
+    "serialNumber": "168278",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168278.jpg"
+  },
+  {
+    "identification": "VID-CGT VALLADOLID_168279",
+    "location": { "lat": "42.0145", "lon": "-5.9041", "city": "VALLADOLID" },
+    "serialNumber": "168279",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168279.jpg"
+  },
+  {
+    "identification": "VID-CGT CORUÑA_168403",
+    "location": { "lat": "42.037083", "lon": "-8.657146", "city": "CORUÑA" },
+    "serialNumber": "168403",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168403.jpg"
+  },
+  {
+    "identification": "VID-CGT ZARAGOZA_168408",
+    "location": {
+      "lat": "42.303898",
+      "lon": "-0.42841062",
+      "city": "ZARAGOZA"
+    },
+    "serialNumber": "168408",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168408.jpg"
+  },
+  {
+    "identification": "VID-CGT MADRID_168411",
+    "location": { "lat": "40.736515", "lon": "-4.0221543", "city": "MADRID" },
+    "serialNumber": "168411",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168411.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_168445",
+    "location": { "lat": "37.1488", "lon": "-3.59172", "city": "MALAGA" },
+    "serialNumber": "168445",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168445.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_168446",
+    "location": { "lat": "37.13635", "lon": "-3.58732", "city": "MALAGA" },
+    "serialNumber": "168446",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168446.jpg"
+  },
+  {
+    "identification": "VID-CGT MALAGA_168467",
+    "location": { "lat": "36.75257", "lon": "-3.75082", "city": "MALAGA" },
+    "serialNumber": "168467",
+    "imageUrl": "http://infocar.dgt.es/etraffic/data/camaras/168467.jpg"
   }
 ]
